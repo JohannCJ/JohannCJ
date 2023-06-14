@@ -3,7 +3,6 @@
 - 👀 I’m interested in getting better at programming, app and web development, and also to learn game development.
 - 🌱 I’m currently pursuing a Bachelor's degree in Computer Science Engineering
 - 💞️ I’m looking to collaborate on game development projects and ui-ux projects
-- 📫 How to reach me: @johann_cj on Instagram
 
 <!---
 JohannCJ/JohannCJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
